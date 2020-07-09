@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monica Limachi on Monica Blog</title>
+    <link>https://example.com/author/monica-limachi/</link>
+    <description>Recent content in Monica Limachi on Monica Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, all rights reserved.</copyright>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/author/monica-limachi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About my blog</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>I&amp;rsquo;m from La Paz, Bolivia. Traveler and I enjoy to learn about different languages, cities, cultures, places, music.
+I enjoy learning about DevOps culture:
+Do you want to learn more about this culture of work?, then I&amp;rsquo;ll be posting different articles in spanish and english, about new requirements, technologies, tools.
+I did this blog using Hugo, and it&amp;rsquo;s very funny to learn different programming languages and use them.
+ Learn more and contribute on my projects my GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://example.com/post/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
